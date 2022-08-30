@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France election: This time it won’t be a walkover for Macron",
+            "description": "Emmanuel Macron will face a run-off against Marine Le Pen, in what is far from a done deal.",
+            "url": "http://www.bbc.co.uk/news/world-europe-61061359",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D431/production/_124112345_macrongetty.jpg",
+            "publishedAt": "2022-04-10T23:22:22.2685871Z",
+            "content": "By Hugh SchofieldBBC News, Paris\r\nImage source, Getty Images\r\nImage caption, Emmanuel Macron comfortably beat Marine Le Pen in 2017\r\nIt is to be a re-run of the 2017 second round, where Emmanuel Macr… [+3805 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Spanish police seize haul of illegal stuffed animals",
+            "description": "The Guardia Civil found more than 1,000 specimens including extinct and endangered species.",
+            "url": "http://www.bbc.co.uk/news/world-europe-61060916",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F3B/production/_124111049_2022-04-10_operacion_valcites_valencia_02.jpg",
+            "publishedAt": "2022-04-10T18:22:21.4573301Z",
+            "content": "Spanish police have seized what is thought to be one of the largest hauls of animal taxidermy in Europe.\r\nThe Guardia Civil found more than 1,000 specimens at an industrial warehouse in Betera, Valen… [+206 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Premier League's top two play out pulsating draw",
+            "description": "Premier League's top two play out pulsating draw at Etihad Stadium to keep the title race on a knife edge.",
+            "url": "http://www.bbc.co.uk/sport/football/60970965",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/107B7/production/_124111576_gettyimages-1390677722.jpg",
+            "publishedAt": "2022-04-10T17:37:39.2690797Z",
+            "content": "Since the start of the 2018-19 season, combining the four campaigns, City and Liverpool have been separated by just a single point in the Premier League\r\nNothing could separate the Premier League's t… [+4076 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine 'ready for big battles' against Russia",
+            "description": "A Kyiv official says Ukraine must beat back Russian forces to have more negotiating power with Moscow.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-61032786",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2022-04-10T16:22:30.6971104Z",
+            "content": "Accounts of atrocities committed by Russian troops against Ukrainian civilians are emerging daily. There are calls for President Putin and others to be prosecuted for war crimes - but how likely is t… [+1239 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Leclerc wins in Australia as Verstappen retires",
+            "description": "Charles Leclerc takes a dominant victory in the Australian Grand Prix to move into a commanding position in the World Championship.",
+            "url": "http://www.bbc.co.uk/sport/formula1/61056578",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1FEA/production/_124107180_gettyimages-1239880450.jpg",
+            "publishedAt": "2022-04-10T07:07:34.4674832Z",
+            "content": "Charles Leclerc took a dominant victory in the Australian Grand Prix to move into a commanding position in the World Championship.\r\nThe Ferrari driver was in total control of the race when his main r… [+5338 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Johnson and Zelensky tour near-empty streets in Kyiv",
+            "description": "Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky.",
+            "url": "http://www.bbc.co.uk/news/world-europe-61057005",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1F86/production/_124107080_p0c0ftpq.jpg",
+            "publishedAt": "2022-04-10T07:07:19.9975646Z",
+            "content": "The UK Prime Minister Boris Johnson made a surprise visit to Ukraine's capital and met President Volodymyr Zelensky. They walked through Kyiv's streets together and met a passer-by. \r\nMr Johnson's la… [+284 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rishi Sunak demands inquiry into Akshata Murty tax leak",
+            "description": "Akshata Murty will pay UK taxes on all her overseas income after a row over her non-domicile status.",
+            "url": "http://www.bbc.co.uk/news/uk-politics-61055789",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13192/production/_123962287_sunak_murty.jpg",
+            "publishedAt": "2022-04-10T05:52:22.497861Z",
+            "content": "Chancellor Rishi Sunak is demanding a Whitehall inquiry to find out who leaked details about his wife's tax arrangements, the BBC has been told.\r\nAkshata Murty has said she will pay UK taxes on her o… [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Ronaldo apologises after appearing to break phone",
+            "description": "Manchester United forward Cristiano Ronaldo apologises after video emerges appearing to show him breaking a fan's phone after his side's defeat at Everton on Saturday.",
+            "url": "http://www.bbc.co.uk/sport/football/61053927",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F6B8/production/_124106136_2022-04-09t133659z_764821876_up1ei4911tl3y_rtrmadp_3_soccer-england-eve-mun-report-0791d68d91a2b426bf1fe83bb86959aee62a6324.jpg",
+            "publishedAt": "2022-04-10T05:52:20.9982349Z",
+            "content": "Ronaldo appeared to knock a young fan's phone to the ground as he walked down the tunnel at Goodison\r\nManchester United forward Cristiano Ronaldo has apologised after video emerged appearing to show … [+980 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Australia election: PM Scott Morrison calls poll for 21 May",
+            "description": "Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra.",
+            "url": "http://www.bbc.co.uk/news/world-australia-61055915",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1743A/production/_123109259_gettyimages-1367947270.jpg",
+            "publishedAt": "2022-04-10T01:52:21.8741642Z",
+            "content": "Image source, Getty Images\r\nAustralian Prime Minister Scott Morrison has called a federal election for 21 May. \r\nMr Morrison's ruling coalition holds 76 seats in the House of Representatives - the mi… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Imran Khan ousted as Pakistan's PM after key vote",
+            "description": "The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it.",
+            "url": "http://www.bbc.co.uk/news/world-asia-61055210",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-04-09T20:22:21.9829778Z",
+            "content": "Pakistan's Prime Minister Imran Khan has been ousted from power after losing a no-confidence vote in his leadership.\r\nThe vote was held past midnight after opposition parties brought a motion against… [+3252 chars]"
+        }
+    ]
+}
